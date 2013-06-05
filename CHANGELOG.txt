@@ -1,0 +1,7 @@
+PotionLimiter v1.0
+
+Copyright (c) 2013 Scuwr
+
+*** CHANGELOG ***
+
+5 June 2013 - v1.0 - Official Release
